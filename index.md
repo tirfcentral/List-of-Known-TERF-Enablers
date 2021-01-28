@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/tirfcentral/List-of-Known-TERF-Enablers/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tirfcentral/List-of-Known-TERF-Enablers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Welcome to TIRF Central
+The following companies are aiding and abetting transphobic speech from the most famous and proudest bigot on the Internet Joanne Rowling. This companies are no innocent victims of this woman either. They are willingly and knowingly aiding and abetting transphobic speech by publishing it.
+Com Laude: They are providing the domain jkrowling.com with a registration. jkrowling.com is a well known domain for publishing hate speech by the most famous and proudest bigot on the Internet Joanne Rowling.
+Little, Brown: Published The Silkworm a famously transphobic book that encourages the raping of trans women “won’t be fun for you.… Not pre-op.”
+Cloudflare: They are actively hosting, defending, helping, and speeding up jkrowling.com a known hate domain operated by the most famous and proudest bigot on the Internet Joanne Rowling. They could single handedly take down jkrowling.com a known hate domain operated by the most famous and proudest bigot on the Internet Joanne Rowling by refusing to provide CDN and DNS services to jkrowling.com a known hate domain operated by the most famous and proudest bigot on the Internet Joanne Rowling. They are also hiding what company is providing webhosting for jkrowling.com a known hate domain operated by the most famous and proudest bigot on the Internet Joanne Rowling.
